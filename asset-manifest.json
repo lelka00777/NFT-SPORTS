@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NFT-SPORTS/static/css/main.0f4b54e5.css",
+    "main.js": "/NFT-SPORTS/static/js/main.a50cefa4.js",
+    "static/js/787.2cc4d09c.chunk.js": "/NFT-SPORTS/static/js/787.2cc4d09c.chunk.js",
+    "index.html": "/NFT-SPORTS/index.html",
+    "main.0f4b54e5.css.map": "/NFT-SPORTS/static/css/main.0f4b54e5.css.map",
+    "main.a50cefa4.js.map": "/NFT-SPORTS/static/js/main.a50cefa4.js.map",
+    "787.2cc4d09c.chunk.js.map": "/NFT-SPORTS/static/js/787.2cc4d09c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f4b54e5.css",
+    "static/js/main.a50cefa4.js"
+  ]
+}
